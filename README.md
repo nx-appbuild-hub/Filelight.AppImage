@@ -1,0 +1,1 @@
+# Filelight.AppImage
